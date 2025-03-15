@@ -1,4 +1,4 @@
-# 💰 React Finance Tracker
+# 💰 React Finance App
 
 ![GitHub License](https://img.shields.io/badge/license-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/anikeydev/react-finance-app) ![GitHub Forks](https://img.shields.io/github/forks/anikeydev/react-finance-app)
 

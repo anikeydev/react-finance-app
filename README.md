@@ -1,7 +1,5 @@
 # 💰 React Finance App
 
-![GitHub License](https://img.shields.io/badge/license-MIT-green) ![GitHub Stars](https://img.shields.io/github/stars/anikeydev/react-finance-app) ![GitHub Forks](https://img.shields.io/github/forks/anikeydev/react-finance-app)
-
 ## 📌 Описание
 
 Простой pet-проект для ведения личных финансов и капитала. Позволяет удобно отслеживать транзакции, управлять капиталом и анализировать финансы.
